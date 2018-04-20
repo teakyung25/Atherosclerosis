@@ -16,6 +16,8 @@ body{
     }
 nav{
    background-color: rgba(68,64,64,0.7);
+   width:30%;
+   height:100%;
 }
 ul{
  list-style-type: none; 
