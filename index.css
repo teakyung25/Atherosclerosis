@@ -72,7 +72,7 @@ h4,h5,h6{
 }
 .navbar-fixed{
   overflow: hidden;
-  background-color: WhiteSmoke;
+  background-color: rgba(68,64,64,0.7);
   top: 0;
   width: 100%;
   margin-left:0px;
