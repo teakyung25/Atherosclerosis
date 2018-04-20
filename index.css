@@ -16,7 +16,7 @@ body{
     }
 nav{
    background-color: rgba(68,64,64,0.7);
-   width:30%;
+   width:20%;
    height:100%;
 }
 ul{
@@ -61,7 +61,7 @@ h4,h5,h6{
 .logo_font{
     font-family:'Quattrocento Sans', sans-serif;
     text-align:center;
-    font-size:50px;
+    font-size:25px;
     text-shadow: 3px 0 0 #b0ced1;
 }
 .center{
