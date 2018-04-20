@@ -20,6 +20,7 @@ body{
     }
 nav{
    background-color: rgba(68,64,64,0.7);
+   position:fixed;
    width:20%;
    height:100%;
 }
