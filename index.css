@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    padding:0;
     background-color: white;
     background-repeat: no-repeat;
     background-size: cover;
@@ -54,6 +55,7 @@ a:hover {
 }
  h1,h2{
 	color:#60b0c7;
+	 padding:0px;
 }
 h3{
  color:#5b7a87;
