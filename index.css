@@ -1,5 +1,5 @@
 body{
-    margin: 0px 0px 0px 0px;
+    margin: 0;
     background-color: white;
     background-repeat: no-repeat;
     background-size: cover;
@@ -17,13 +17,14 @@ body{
 nav{
    background-color: rgba(68,64,64,0.7);
 }
+ul{
+ list-style-type: none; 
+}
 a{
       display: inline-block;
       /*float: left;*/
       border: none;
       color: white;
-      padding: 12px 26px;
-      text-align: center;
       text-decoration: none;
       font-size: 16px;
       cursor: pointer;
